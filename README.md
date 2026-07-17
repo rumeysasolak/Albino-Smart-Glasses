@@ -1,2 +1,11 @@
 # Albino-Smart-Glasses
-AI-powered smart glasses concept designed to improve the daily lives of people with albinism.
+AI-assisted smart glasses designed to improve visual comfort and daily accesssibility for people with albinism. 
+
+Status: 
+Research Phase 
+
+Started:
+July 2026
+
+Author:
+Rümeysa S.
